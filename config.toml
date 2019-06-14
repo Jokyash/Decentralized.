@@ -1,0 +1,10 @@
+baseURL = "https://de-centralized.io"
+languageCode = "ja"
+title = "Decentralized."
+theme = "pickles"
+
+[Params]
+description = "All about Decentralization, Web3, and Cypherpunk."
+twitter_account = "https://twitter.com/Jokyash"
+github_account = "https://github.com/Jokyash"
+analytics = "UA-141660484-1"

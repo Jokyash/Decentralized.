@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Decentralized.</title>
+    <link>https://de-centralized.io/posts/</link>
+    <description>Recent content in Posts on Decentralized.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 15 Jun 2019 05:33:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://de-centralized.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample</title>
+      <link>https://de-centralized.io/posts/sample/</link>
+      <pubDate>Sat, 15 Jun 2019 05:33:16 +0900</pubDate>
+      
+      <guid>https://de-centralized.io/posts/sample/</guid>
+      <description>#Sample ブログ「Decentralized.」をHugoで作ってみる実験です。 マークダウンを使って文章を書くのも 初めて です。 - リスト1 - リスト2</description>
+    </item>
+    
+  </channel>
+</rss>
